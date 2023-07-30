@@ -1,6 +1,9 @@
 👋 Hi, I'm @XWARHELL
+
 👀 I'm interested in programming
+
 🌱 I'm currently learning web design
+
 📫 How to reach me t.me/XWARHELL
 
 <!---
